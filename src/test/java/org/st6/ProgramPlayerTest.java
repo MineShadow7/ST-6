@@ -5,7 +5,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class ProgramPlayerTest {
     private Player player;
-
     @BeforeEach
     public void setUp() {
         player = new Player();
